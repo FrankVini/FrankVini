@@ -7,11 +7,11 @@ Estou voltando aos cursos de programação para uma possível transição na ár
 
 Aqui abaixo, vou deixar alguns dos meus contatos, caso queiram trocar experiências ou possíveis oportunidades de emprego.
 
-[ ![ LinkedIn ] ( https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white )] ( https://www.linkedin.com/in/franklinvinicius/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinvinicius/)
 
-[ ![ Discord ] ( https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white )] ( https://discord.com/channels/@dokzera#6546 / )
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@dokzera#6546/)
 
-[ ![ GitHub ] ( https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )] ( https://github.com/FrankVini )
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrankVini)
 ## 🛠 Habilidades
 Durante o técnico de Análise e Desenvolvimento de Sistemas, tive aula de diversas línguas de programação, porém sempre temos uma no qual gostamos mais, não é mesmo?
 
@@ -19,16 +19,16 @@ Durante o técnico de Análise e Desenvolvimento de Sistemas, tive aula de diver
 
 Mas vou deixar aqui algumas das quais tive experiência e também, como faço meu interesse para estudar e futuramente, uma carreira!
 
-![ C++ ] ( https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white )
-![ HTML5 ] ( https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white )
-![ Python ] ( https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54 )
-![ JavaScript ] ( https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=White )
-![ MySQL ] ( https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white )
-![ Kali ] ( https://img.shields.io/badge/Kali-000?style=for-the-badge&logo=kalilinux&logoColor=white )
-![ PL ] ( https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=oracle&logoColor=White&labelColor=00&color=000 )
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=White)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![PL](https://img.shields.io/badge/PL%2FSQL-000?style=for-the-badge&logo=oracle&logoColor=White&labelColor=00&color=000)
 
 
 
 ## Iniciando minha Jornada aqui! 
 
-![ Estatísticas do GitHub ] ( https://github-readme-stats.vercel.app/api?username=FrankVini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF )
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FrankVini&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
