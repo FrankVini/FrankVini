@@ -1,8 +1,8 @@
 ## 🚀 Sobre mim
-*** Olá pessoal *** 🤙,
+***Olá pessoal*** 🤙,
 
-Me chamo * Franklin Vinicius * , porém o povo costuma me chamar de Frank ou Vini, por isso geralmente costumo usar os dois juntos nas plataformas de jogos ou até mesmo nos cursos.
-Tenho 23 anos e sou formado em ** Análise de Desenvolvimento de Sistemas ** e atualmente trabalho como * Analista de Segurança da Informação * . Parecem ser áreas bem distintas uma das outras, mas no final todas elas encontram-se rsrs 😁😁... * Enfim * ,
+Me chamo *Franklin Vinicius* , porém o povo costuma me chamar de Frank ou Vini, por isso geralmente costumo usar os dois juntos nas plataformas de jogos ou até mesmo nos cursos.
+Tenho 23 anos e sou formado em **Análise de Desenvolvimento de Sistemas** e atualmente trabalho como *Analista de Segurança da Informação*. Parecem ser áreas bem distintas uma das outras, mas no final todas elas encontram-se rsrs 😁😁... *Enfim* ,
 Estou voltando aos cursos de programação para uma possível transição na área de desenvolvimento, através dos cursos da DIO.
 
 Aqui abaixo, vou deixar alguns dos meus contatos, caso queiram trocar experiências ou possíveis oportunidades de emprego.
@@ -15,7 +15,7 @@ Aqui abaixo, vou deixar alguns dos meus contatos, caso queiram trocar experiênc
 ## 🛠 Habilidades
 Durante o técnico de Análise e Desenvolvimento de Sistemas, tive aula de diversas línguas de programação, porém sempre temos uma no qual gostamos mais, não é mesmo?
 
-*** A minha foi Python! *** 🐍🐍🐍
+***A minha foi Python!*** 🐍🐍🐍
 
 Mas vou deixar aqui algumas das quais tive experiência e também, como faço meu interesse para estudar e futuramente, uma carreira!
 
